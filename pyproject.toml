@@ -12,6 +12,7 @@ dependencies = [
     "langchain>=1.2.0",
     "langchain-community>=0.4.1",
     "langchain-openai>=1.1.4",
+    "langchain-text-splitters>=1.1.0",
     "pydantic>=2.12.5",
     "pymupdf>=1.26.7",
     "pypdf>=6.4.2",
