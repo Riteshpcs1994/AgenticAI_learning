@@ -1,0 +1,11 @@
+Human: Hi, My name is Ritesh Kumar, how are you
+AI: Hello Ritesh Kumar! I'm just a computer program, so I don't have feelings, but I'm here and ready to help you. How can I assist you today?
+
+Human: can you tell me name ?
+AI: Of course! My name is ChatGPT. How can I assist you today, Ritesh?
+
+Human: what is weather in Pune?
+AI: I'm unable to provide real-time weather updates. To get the current weather in Pune, I recommend checking a reliable weather website or using a weather app on your smartphone. If you have any other questions or need information, feel free to ask!
+
+
+--- End of Conversation ---
